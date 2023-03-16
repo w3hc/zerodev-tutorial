@@ -36,7 +36,7 @@ const { chains, provider } = configureChains(
 );
 
 // YOUR ZERODEV PROJECT ID
-const projectId = 'b5486fa4-e3d9-450b-8428-646e757c10f6'
+const projectId = '3b77f980-f0a3-4a98-bfc3-4be961c275c0'
 
 const connectors = connectorsForWallets([
   {
